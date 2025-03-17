@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/avilay/projects/bitbucket/learn/learn-gfx/learn-raylib/web/web-build",
+  "command": "/home/avilay/projects/cloned/detached/emsdk-3.1.74/emsdk/upstream/emscripten/emcc -DPLATFORM_WEB -I/usr/include -Wall -s USE_GLFW=3 -s WASM=1 -s ASYNCIFY -s GL_ENABLE_GET_PROC_ADDRESS=1 --preload-file /home/avilay/projects/bitbucket/learn/learn-gfx/learn-raylib/web/resources -g -fcolor-diagnostics -o CMakeFiles/web.dir/main.c.o -c /home/avilay/projects/bitbucket/learn/learn-gfx/learn-raylib/web/main.c",
+  "file": "/home/avilay/projects/bitbucket/learn/learn-gfx/learn-raylib/web/main.c",
+  "output": "CMakeFiles/web.dir/main.c.o"
+}
+]

@@ -1,0 +1,4 @@
+/home/avilay/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/avilay/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=YES -DCMAKE_TOOLCHAIN_FILE=/home/avilay/projects/cloned/detached/emsdk-3.1.74/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake "-DCMAKE_C_FLAGS=-Wall -s USE_GLFW=3 -s WASM=1 -s ASYNCIFY -s GL_ENABLE_GET_PROC_ADDRESS=1" -G Ninja -S /home/avilay/projects/bitbucket/learn/learn-gfx/learn-raylib/web -B /home/avilay/projects/bitbucket/learn/learn-gfx/learn-raylib/web/web-build
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/avilay/projects/bitbucket/learn/learn-gfx/learn-raylib/web/web-build
